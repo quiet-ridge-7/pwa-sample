@@ -1,4 +1,4 @@
-const CACHE_NAME = "pwa-sample-v5";
+const CACHE_NAME = "pwa-sample-v6";
 const FILES = ["./", "index.html", "app.js", "manifest.webmanifest", "icon-192.png", "icon-512.png"];
 
 self.addEventListener("install", (event) => {
